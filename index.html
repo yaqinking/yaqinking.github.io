@@ -12,7 +12,8 @@ about: 'about.html'
                     <img src="{{ page.logo }}" alt="Blog Logo" />
                 </a>
             {% endif %}
-        <a class="subscribe-button icon-feed" href="{{ site.baseurl }}rss.xml">订阅RSS</a>
+			
+        <!-- <a class="subscribe-button icon-feed" href="{{ site.baseurl }}rss.xml">订阅RSS</a> -->
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">
@@ -49,7 +50,7 @@ about: 'about.html'
                 {{ site.author }}
             {% endif %}
             {% if post.categories.size > 0 %} 
-                {{ post.categories | array_to_sentence_string | prepend: 'on ' }} 
+                {{ post.categories | array_to_sentence_string | prepend: ' post on ' }} 
             {% endif %}
             <time class="post-date" datetime="{{ post.date | date:"%Y-%m-%d" }}">
                 {{ post.date | date_to_string }}
