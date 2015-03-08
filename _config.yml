@@ -1,0 +1,15 @@
+name: YaQinKingのメモ帳
+description: 最爱二次元Loli 正在努力成为 Mac 软件开发者中
+meta_description: "YaQinKingのメモ帳,  meta description"
+
+markdown: redcarpet
+highlighter: pygments
+logo: true
+paginate: 15
+baseurl: /
+domain_name: 'http://yourblog-domain.com'
+google_analytics: 'UA-XXXXXXXX-X'
+
+# Details for the RSS feed generator
+url:            'blog url'
+author:         'YaQinKing'
