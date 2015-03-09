@@ -2,11 +2,9 @@
 layout: post
 title:  "OS X 下使用 Mjolnir 来快速切换 App"
 date:   2015-03-07 12:10:00
-categories: OS X
+categories: 软件
 ---
-
-OS X 下使用 Mjolnir 来快速切换 App
-
+效果
 ![](/assets/images/osx-use-mjolnir-effect.jpg)
 
 [Mjolnir 官网](http://mjolnir.io/)

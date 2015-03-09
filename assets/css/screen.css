@@ -758,6 +758,18 @@ body:not(.post-template) .post-title {
     line-height: 1.7em;
 }
 
+/*
+add control img size by yaqink
+*/
+
+.post-excerpt p img{
+	width:800px;
+}
+
+/*
+above code write by yaqink
+*/
+
 .read-more {
     text-decoration: none;
 }
@@ -892,7 +904,10 @@ body:not(.post-template) .post-title {
 }
 
 /* Break out larger images to be wider than the main text column
-   the class is applied with jQuery */
+   the class is applied with jQuery 
+
+"改下面能不能对首页显示的大图生效？"
+*/
 .post-content .full-img {
     width: 126%;
     max-width: none;
