@@ -7,9 +7,9 @@ highlighter: pygments
 logo: true
 paginate: 15
 baseurl: /
-domain_name: 'http://yaqink.github.io'
+domain_name: 'https://yaqink.github.io'
 google_analytics: 'UA-60494668-1'
 
 # Details for the RSS feed generator
-url:            'http://yaqink.github.io'
+url:            'https://yaqink.github.io'
 author:         'YaQinKing'
