@@ -13,7 +13,7 @@ about: 'about.html'
                 </a>
             {% endif %}
 			
-        <!-- <a class="subscribe-button icon-feed" href="{{ site.baseurl }}rss.xml">订阅RSS</a> -->
+        <a class="subscribe-button icon-feed" href="{{ site.baseurl }}rss.xml">订阅RSS</a>
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">
@@ -57,24 +57,7 @@ about: 'about.html'
             </time> 
         </footer>
     </article>
-
-    <!-- Capser below -->
-<!--     <article class="{{post_class}}">
-    <header class="post-header">
-        <h2 class="post-title"><a href="{{url}}">{{{title}}}</a></h2>
-    </header>
-    <section class="post-excerpt">
-        <p>{{excerpt words="26"}} <a class="read-more" href="{{url}}">&raquo;</a></p>
-    </section>
-    <footer class="post-meta">
-        {{#if author.image}}<img class="author-thumb" src="{{author.image}}" alt="Author image" nopin="nopin" />{{/if}}
-        {{author}}
-        {{tags prefix=" on "}}
-        <time class="post-date" datetime="{{date format='YYYY-MM-DD'}}">{{date format="DD MMMM YYYY"}}</time>
-    </footer>
-    </article> -->
-    <!--  -->
-
+	
     {% endfor %}
 
     {% include pagination.html %}
