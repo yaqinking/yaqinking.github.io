@@ -5,7 +5,7 @@ meta_description: "YaQinKingのメモ帳"
 markdown: redcarpet
 highlighter: pygments
 logo: true
-paginate: 15
+paginate: 5
 baseurl: /
 domain_name: 'https://yaqink.github.io'
 google_analytics: 'UA-60494668-1'
