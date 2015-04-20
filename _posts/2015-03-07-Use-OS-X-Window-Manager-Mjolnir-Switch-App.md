@@ -14,8 +14,8 @@ categories: 软件
 [我的配置](https://github.com/yaqink/SoftwarePreference/blob/master/Mjolnir/init.lua)
 
 快速配置：
-1. 從官網下載安裝 Mjolnir
-2. 安裝依賴(首先你需要安裝過 brew)
+- 從官網下載安裝 Mjolnir
+- 安裝依賴(首先你需要安裝過 brew)
 {% highlight bash %}
 brew install lua
 brew install luarocks
@@ -34,7 +34,7 @@ luarocks install mjolnir._asm.ui.sound
 
 mkdir ~/.mjolnir/
 {% endhighlight %}
-3. 把我的配置文件放到 ~/.mjolnir/ 下（完成後是：~/.mjolnir/init.lua）
+- 把我的配置文件放到 ~/.mjolnir/ 下（完成後是：~/.mjolnir/init.lua）
 
 PS: ~ 代表用戶文件夾
 
