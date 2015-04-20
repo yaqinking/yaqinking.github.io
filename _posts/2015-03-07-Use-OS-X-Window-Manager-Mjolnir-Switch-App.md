@@ -14,6 +14,7 @@ categories: 软件
 [我的配置](https://github.com/yaqink/SoftwarePreference/blob/master/Mjolnir/init.lua)
 
 快速配置：
+
 - 從官網下載安裝 Mjolnir
 - 安裝依賴(首先你需要安裝過 brew)
 {% highlight bash %}
