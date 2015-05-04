@@ -1,6 +1,6 @@
 # YaQinKingのメモ帳
 
-YaQinking的记事本
+YaQinKing 的记事本
 
 ## 活動的帳號
 [Twitter](https://twitter.com/yaqinking)
@@ -16,4 +16,4 @@ Theme : [Kasper](https://github.com/rosario/kasper)
 ## Copyright
 Under `_post` folder ,It's copyright to YaQinKing
 
-Under `assets/images` images copyright to their owner.
+Under `assets/images` images are copyright to their owner.
