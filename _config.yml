@@ -7,7 +7,7 @@ highlighter: pygments
 logo: true
 paginate: 5
 baseurl: /
-domain_name: 'https://yaqink.github.io'
+domain_name: 'https://yaqinking.github.io'
 google_analytics: 'UA-60494668-1'
 
 # Markdown render redcarpet options
@@ -15,5 +15,5 @@ redcarpet:
   extensions: ["hard_wrap", "no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "strikethrough", "superscript","underline"]
 
 # Details for the RSS feed generator
-url:            'https://yaqink.github.io'
+url:            'https://yaqinking.github.io'
 author:         'YaQinKing'
