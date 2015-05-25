@@ -1,6 +1,6 @@
-name: YaQinKingのメモ帳
+name: 小笠原 やきん のメモ帳
 description: 最爱二次元Loli 正在努力成为 Mac 软件开发者中
-meta_description: "YaQinKingのメモ帳"
+meta_description: "小笠原 やきん のメモ帳"
 
 markdown: redcarpet
 highlighter: pygments
@@ -16,4 +16,4 @@ redcarpet:
 
 # Details for the RSS feed generator
 url:            'https://yaqinking.github.io'
-author:         'YaQinKing'
+author:         '小笠原 やきん'
