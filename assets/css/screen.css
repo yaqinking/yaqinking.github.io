@@ -38,7 +38,10 @@ html {
    -webkit-text-size-adjust: 100%;
 }
 body { margin: 0; }
-a { background: transparent; }
+a {
+    background: transparent;
+    text-decoration: none;
+}
 a:focus { outline: thin dotted; }
 a:active, a:hover { outline: 0; }
 h1 { font-size: 2em; margin: 0.67em 0; }
@@ -233,12 +236,13 @@ h6 {
 }
 
 a {
-    color: #4A4A4A;
+/* Like twitter link color*/
+    color: #2b7bb9;
     transition: color ease 0.3s;
 }
 
 a:hover {
-    color: #111;
+    color: #FA743E;
 }
 
 p, ul, ol, dl {
@@ -465,6 +469,10 @@ margin on the iframe, cause it breaks stuff. */
 
 .vertical a {
     text-decoration: none;
+    color: #999;
+}
+.vertical a:hover {
+    color: #FA743E;
 }
 /* ==========================================================================
    4. General - The main styles for the the theme
