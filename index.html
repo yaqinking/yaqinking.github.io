@@ -20,7 +20,8 @@ about: 'about.html'
             <h1 class="page-title">{{ site.name }}</h1>
             <h2 class="page-description">
                 {% if site.description %} {{ site.description }}. {% endif %}
-                {% if page.about %} <a href='{{ site.baseurl }}{{ page.about }}'> 关于 小笠原 やきん </a> {% endif %}
+		<br>
+                {% if page.about %} <a href='{{ site.baseurl }}{{ page.about }}'> 关于 小笠原 やきん</a> {% endif %}
             </h2>
         </div>
     </div>
@@ -46,7 +47,7 @@ about: 'about.html'
         </section>
         <footer class="post-meta">
             {% if site.author %}
-                <img class="author-thumb" src="/assets/images/profile.png" alt="Author's profile picture" nopin="nopin" />
+                <img class="author-thumb" src="/assets/images/profile.jpeg" alt="Author's profile picture" nopin="nopin" />
                 {{ site.author }}
             {% endif %}
             {% if post.categories.size > 0 %} 

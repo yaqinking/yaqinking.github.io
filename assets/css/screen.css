@@ -463,7 +463,9 @@ margin on the iframe, cause it breaks stuff. */
     vertical-align: middle;
 }
 
-
+.vertical a {
+    text-decoration: none;
+}
 /* ==========================================================================
    4. General - The main styles for the the theme
    ========================================================================== */
