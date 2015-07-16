@@ -1,5 +1,6 @@
 ---
 layout: default
+disqus: true
 post_class: post-template page-template
 ---
 
@@ -21,5 +22,13 @@ post_class: post-template page-template
         </section>
 
     </article>
+ <footer class="post">
+
+ <!-- Disqus comments -->
+            {% if page.disqus %}
+                {% include disqus.html %}
+            {% endif %}
+ </footer>
 
 </main>
+
