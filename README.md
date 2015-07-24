@@ -5,8 +5,6 @@
 ## 活動的帳號
 [Twitter](https://twitter.com/yaqinking)
 
-[V2EX](https://v2ex.com/member/yaqink)
-
 [Bangumi](http://bangumi.tv/user/yaqink)
 
 
