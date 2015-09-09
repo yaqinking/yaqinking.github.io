@@ -30,7 +30,7 @@ title: 小笠原 やきん（yaqinking）
 - [Phoenix Nemo](https://blog.phoenixlzx.com/) 好吃的凤凰卷でーす！向圣人惠看齐 - 努力做一只没有存在感的路人卷（凤凰卷，我喜欢吃！~~这家伙根本没吃过~~）
 - [Elethom Hunter](http://blog.projectrhinestone.org/) I Do Not Compromise （延珠酱 ~~E 娘~~ prpr）
 - [Cee Cirno](https://blog.cee.moe/)「Live & eviL」（Cee 的头经常换）
-- [Dimpurr](http://blog.dimpurr.com/)千里之行始于足下（钉子受我一拜）
+- [Dimpurr](http://blog.dimpurr.com/) 千里之行始于足下（钉子受我一拜）
 - [Tomomi Sawako](http://tomomi.moe/) 萌导航作者（神烦 Club，我很在意）
 
 上面的是目前和我产生过交集的。
