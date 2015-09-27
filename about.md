@@ -3,15 +3,16 @@ layout: page
 title: 小笠原 やきん（yaqinking）
 ---
 <br>
-目前正在学 iOS 软件开发中，想进入一个二次元相关的公司里工作。
+目前正在学 iOS/Mac 软件开发中，想进入一个二次元相关的公司里工作。
 
 
 ## 各种生活：
 
-- [Twitter](https://twitter.com/yaqinking) 碎碎念
+- [Twitter](https://twitter.com/yaqinking) 碎碎念（一般情况下，联系请用这个，因为有推送，回复速度可能会快点 w）
 - [G+](https://plus.google.com/+小笠原やきん/) 补番吐槽
 - [V2EX](https://v2ex.com/member/yaqink) 比较特别的社区
 - [GitHub](https://github.com/yaqinking) 代码
+- [Telegram](https://telegram.me/yaqinking) 闲聊
 - [Netease](http://music.163.com/#/user/home?id=32622471) 最近在听的歌曲
 - [About.me](https://about.me/yaqinking) 用于帐号放置 play
 - [Bangumi](http://bangumi.tv/user/yaqink) 在看动画
