@@ -33,6 +33,7 @@ title: 小笠原 やきん（yaqinking）
 - [Cee Cirno](https://blog.cee.moe/)「Live & eviL」（Cee 的头经常换）
 - [Dimpurr](http://blog.dimpurr.com/) 千里之行始于足下（钉子受我一拜）
 - [Tomomi Sawako](http://tomomi.moe/) 萌导航作者（神烦 Club，我很在意）
+- [Bill Bao](http://www.dmjsz.com/) 动漫技术宅（用动漫诠释人生，用技术改变未来。）
 
 上面的是目前和我产生过交集的。
 想出现的，求勾搭。
