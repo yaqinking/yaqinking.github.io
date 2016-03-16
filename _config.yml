@@ -1,19 +1,40 @@
-name: 小笠原 やきん のメモ帳
-description: iOS/Mac 开发者绝赞好评养成中
-meta_description: "小笠原 やきん のメモ帳"
+# Site settings
+title: 小笠原 やきん のメモ帳
+url: "https://yaqinking.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+baseurl: "" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
+timezone: Asia/Shanghai
+description: 
+  萌系动画爱好者，软件开发者绝赞好评养成中
 
-markdown: redcarpet
-highlighter: pygments
-logo: true
+# Your information
+email: yaqinking@yahoo.co.jp
+author: 小笠原 やきん
+avatar: "//i.imgur.com/U1HYtJzl.jpg?1"
+profile: 萌系动画爱好者，软件开发者。
+twitter_username: yaqinking
+github_username:  yaqinking
+bangumi_username: yaqink
+telegram_username: yaqinking
+googleplus_username: 小笠原やきん
+
+# Comment Service (Disqus or 多说)
+#  choose one and un-comment the line to active it
+disqus_shortname: yaqinking  # get one: https://disqus.com/admin/signup/
+#duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
+
+permalink: /archivers/:title
+gems:
+ - jekyll-paginate
+ - jekyll-gist
+ # - jemoji
+
+# Build settings
 paginate: 5
-baseurl: /
-domain_name: 'https://yaqinking.github.io'
-google_analytics: 'UA-60494668-1'
+paginate_path: "page:num"
 
-# Markdown render redcarpet options
-redcarpet:
-  extensions: ["hard_wrap", "no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "strikethrough", "superscript","underline"]
+highlighter: rouge
+markdown: kramdown
 
-# Details for the RSS feed generator
-url:            'https://yaqinking.github.io'
-author:         '小笠原 やきん'
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge

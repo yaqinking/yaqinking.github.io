@@ -1,34 +1,16 @@
 ---
 layout: default
-disqus: true
-post_class: post-template page-template
 ---
+<div class="post">
 
-<nav class="main-nav clearfix">
-    <a class="back-button icon-arrow-left" href="{{ site.baseurl }}">首页</a>
-    
-	<a class="subscribe-button icon-feed" href="{{ site.baseurl }}feed.xml">订阅RSS</a>
-	
-</nav>
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
 
+  <article class="post-content">
+    {{ content }}
+  </article>
 
-<main class="content" role="main">
-    <article class="post">
-		
-        <h1 class="post-title">{{ page.title }}</h1>
+  {% include comment.html %}
 
-        <section class="post-content">
-            {{content}}
-        </section>
-
-    </article>
- <footer class="post">
-
- <!-- Disqus comments -->
-            {% if page.disqus %}
-                {% include disqus.html %}
-            {% endif %}
- </footer>
-
-</main>
-
+</div>

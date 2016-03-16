@@ -1,8 +1,10 @@
 ---
 layout: page
-title: 小笠原 やきん（yaqinking）
+title: About
+permalink: /about/
+public: true
 ---
-<br>
+
 目前正在学 iOS/Mac 软件开发中，想进入一个二次元相关的公司里工作。
 
 
@@ -22,7 +24,7 @@ title: 小笠原 やきん（yaqinking）
 
 ## 小笠原 やきん的朋友们：
 
-~~简介窝不会写，顺序不要在意，目前我一个都没有面过。括弧里面的不用看。~~
+~~简介窝不会写，顺序不要在意，括弧里面的不用看。~~
 
 - [bi119ate5hxk](http://blog.bi119ate5hxk.net/) biです〜Software&Hardware developer.（直接上 Twitter bio）
 - [星野恵瑠](http://crazism.net/) MAGES 在职的业内人士。（抱大腿）

@@ -4,7 +4,11 @@ title: DMHY 1.1 版本更新及生存报告
 date: 2016-03-16 11:09
 categories: life
 ---
-更新内容：
+
+日常和 DMHY 使用教程
+
+v1.1 更新内容：
+
 1. 自动下载订阅的新种子
 2. 暗色主题，Yosemite style UI
 3. 下载完成后有 Notification
