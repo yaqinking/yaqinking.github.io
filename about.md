@@ -37,6 +37,7 @@ public: true
 - [Tomomi Sawako](http://tomomi.moe/) 萌导航作者（神烦 Club，我很在意）
 - [Bill Bao](http://www.dmjsz.com/) 动漫技术宅（用动漫诠释人生，用技术改变未来。）
 - [神楽坂立华](https://freedom.moe/) 简、繁、英、日通吃的技术宅 prpr
+- [羽毛](https://oao.moe/) 没事敲文章的懒鬼（才怪的感觉 w
 
 上面的是目前和我产生过交集的。
 想出现的，求勾搭。
