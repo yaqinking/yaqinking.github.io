@@ -28,7 +28,7 @@ public: true
 
 - [bi119ate5hxk](http://blog.bi119ate5hxk.net/) biです〜Software&Hardware developer.（直接上 Twitter bio）
 - [星野恵瑠](http://crazism.net/) MAGES 在职的业内人士。（抱大腿）
-- [Ricter Zheng](https://www.ricter.me/) 
+- [Ricter Zheng](http://ricterz.me)
 一个喜欢卖萌的少年，渴望成为菊苣。（我觉得他的 bio 一直在骗我）
 - [Phoenix Nemo](https://blog.phoenixlzx.com/) 好吃的凤凰卷でーす！向圣人惠看齐 - 努力做一只没有存在感的路人卷（凤凰卷，我喜欢吃！~~这家伙根本没吃过~~）
 - [Elethom Hunter](http://blog.projectrhinestone.org/) I Do Not Compromise （延珠酱 ~~E 娘~~ prpr）
