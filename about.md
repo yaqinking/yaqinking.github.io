@@ -5,7 +5,7 @@ permalink: /about/
 public: true
 ---
 
-目前正在学 iOS/Mac 软件开发中，想进入一个二次元相关的公司里工作。
+目前正在学 iOS/macOS 软件开发中。
 
 
 ## 各种生活：
@@ -37,7 +37,10 @@ public: true
 - [Tomomi Sawako](http://tomomi.moe/) 萌导航作者（神烦 Club，我很在意）
 - [Bill Bao](http://www.dmjsz.com/) 动漫技术宅（用动漫诠释人生，用技术改变未来。）
 - [羽毛](https://oao.moe/) 没事敲文章的懒鬼（才怪的感觉 w
+- [ChuDYu](https://wislab.net/) PHPer、ACGer、气象爱好者、业余无线电爱好者。
 
 上面的是目前和我产生过交集的。
 想出现的，求勾搭。
 需要我改简介的，接收调教。
+
+
