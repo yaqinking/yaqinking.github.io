@@ -5,8 +5,17 @@ permalink: /about/
 public: true
 ---
 
-目前正在学 iOS/macOS 软件开发中。
+AVG 参与制作中。
 
+macOS/iOS 软件开发搁置中 <_<
+
+吉里吉里Z KAGEX 尝试改进中
+
+好想用 Unity 来写游戏啊 ~~你的大坑~~
+
+简介等待补充中。~~找打~~
+
+2016/12/22
 
 ## 各种生活：
 
@@ -38,6 +47,7 @@ public: true
 - [Bill Bao](http://www.dmjsz.com/) 动漫技术宅（用动漫诠释人生，用技术改变未来。）
 - [羽毛](https://oao.moe/) 没事敲文章的懒鬼（才怪的感觉 w
 - [ChuDYu](https://wislab.net/) PHPer、ACGer、气象爱好者、业余无线电爱好者。
+- [Ronnie Wang](https://wattlebird.github.io/) A software development engineer specialized in data science and machine learning. （微软在职研究人员（仰望
 
 上面的是目前和我产生过交集的。
 想出现的，求勾搭。
