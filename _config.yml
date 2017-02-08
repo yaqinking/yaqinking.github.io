@@ -4,13 +4,13 @@ url: "https://yaqinking.github.io"    # the protocol and hostname of your site, 
 baseurl: "" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
 timezone: Asia/Shanghai
 description: 
-  萌系动画爱好者，软件开发者绝赞好评养成中
+  萌系动画爱好者，程序员绝赞好评养成中
 
 # Your information
 email: yaqinking@yahoo.co.jp
 author: 小笠原 やきん
-avatar: "//i.imgur.com/EVw4few.png"
-profile: 萌系动画爱好者，软件开发者。
+avatar: "//i.imgur.com/uTGZeEy.png"
+profile: 萌系动画爱好者，程序员。
 twitter_username: yaqinking
 github_username:  yaqinking
 bangumi_username: yaqink
