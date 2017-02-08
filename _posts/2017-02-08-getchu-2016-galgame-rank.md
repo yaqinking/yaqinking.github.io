@@ -23,7 +23,7 @@ categories: galgame getchu
 
 ## System 部门
 
-1. [BALDR HEART (戯画)](http://www.getchu.com/soft.phtml?id=892272) 这作没玩……不过玩了 キミの瞳にヒットミー 试玩版，戏画的系统当之无愧第一 浮动菜单，设置选项调节丰富程度，动画过渡效果，Senario Jump，能全部加上去，果然 hhh
+1. [BALDR HEART (戯画)](http://www.getchu.com/soft.phtml?id=892272) 这作没玩……不过玩了 キミの瞳にヒットミー 试玩版，戏画的系统当之无愧第一 浮动菜单，设置选项调节丰富程度，动画过渡效果，Scenario Jump，能全部加上去，果然 hhh
 2. [まいてつ (Lose)](http://www.getchu.com/soft.phtml?id=942023) 吉里吉里Z + Wamsoft 定制版 KAGEX + E-mote 专业的就是能出现令人佩服的东西，不服不行……戏画有的大部分 Lose 的也实装了……当然能让同人社团学习的地方挺多的，不过有些功能的实装实现起来的确是有难度啊，要不然大家怎么都不实装呢。然后虽说是 Lose 的作品，这里不得不说下 Wamsoft 这个公司，不少使用 吉里吉里2/Z 作品的公司的 Programmer 担当是该公司，其主要人员之一是 KAGEX 的开发者。嘛，ED Staff 名单里不少见的一个 brand 之一（虽然感觉 Mju:Z 也很常见就是……在 OP 里）不过说到底还是一个时间经验的问题……嘴上是这样说的实际也的确是这样，目前来看，国内用 吉里吉里2 的虽然也在用 KAGEX 但是很多功能都没用上……KAGEX 的 doc 也没人翻译，KAG 的 doc 倒是 KeyFansClub 和 澄空 已经基本翻译完毕了，嘛，窝也不好说什么，毕竟目前不好说话……说错了绝对会被怼 www
 
 5 . [千の刃濤、桃花染の皇姫 (オーガスト)](http://www.getchu.com/soft.phtml?id=927689) 八月的系统设置也是一堆一堆的。不过更令我印象深刻的是那个切换 Tablet 和 桌面模式，然后有次调成 Tablet 模式，默认是全屏且不能调成窗口，窝以为哪里出 BUG 了呢……Android 版本使用的是 ADV+++ 这点倒是有点奇怪，虽说也不奇怪就是……（然而窝连 Android 试玩都没试玩，手里没能跑的顺畅的 Android 设备……恩？正好可以晒一波 iOS 设备啊，iPhone 6s，iPad Air2，目前在用这两个。）
